@@ -15,3 +15,5 @@ app = Flask(__name__,static_url_path='/assets',
             template_folder='./flask app')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
+#route to html templates
+
