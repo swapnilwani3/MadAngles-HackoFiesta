@@ -7,7 +7,7 @@ The project aims to classify the X-ray and CT scan images uploaded by the user a
 
 **Instructions to set up locally**
 1. Clone the repository locally.
-2. Install the dependencies from requirements.txt.
+2. Install the dependencies from "requirements.txt".
 3. Run the app.py file
 4. Navigate to the web adress where the flask app is hosted.
 5. Click on the "Detect covid" button and upload the X-ray or CT scan image at the mentioned place.
