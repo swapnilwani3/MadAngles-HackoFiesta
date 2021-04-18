@@ -15,3 +15,6 @@ The project aims to classify the X-ray and CT scan images uploaded by the user a
 The results would be displayed as percentage of covid or non-covid through the four CNN models that we have trained.
 # Presentation Link
  https://docs.google.com/presentation/d/1p1S7nYDqQXqew9sZmWZzTE9hzMEKeEImf8soNXw9mgI/edit?usp=sharing
+
+# Video Link
+ https://www.youtube.com/watch?v=XCpz2JQ0r5M
