@@ -5,7 +5,7 @@ In our project we have used four Deep Learning algorithms, namely: VGG16, ResNet
 
 The project aims to classify the X-ray and CT scan images uploaded by the user as covid affected or non-covid affected with percentage.
 
-# Instructions to set up locally
+# Instructions to set up project locally
 
 1. Clone the repository locally.
 2. Install the dependencies from "requirements.txt".
